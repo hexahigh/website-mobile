@@ -48,5 +48,5 @@ jobs:
         commit-message: "Automated sitemap update."
         author: Boof <hexahigh@users.noreply.github.com>
         committer: Boof <hexahigh@users.noreply.github.com>
-        branch: games/main
+        branch: website-mobile/main
         delete-branch: true
