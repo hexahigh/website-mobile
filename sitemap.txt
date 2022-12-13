@@ -1,0 +1,8 @@
+https://mobile.boof.eu.org/
+https://mobile.boof.eu.org/favicon.png
+https://mobile.boof.eu.org/sitemap.txt
+https://mobile.boof.eu.org/sitemap.xml
+https://mobile.boof.eu.org/Software/
+https://mobile.boof.eu.org/Software/Calculator-inator/
+https://mobile.boof.eu.org/Software/Calculator-inator/favicon-ci.png
+https://mobile.boof.eu.org/Software/Calculator-inator/style.css
