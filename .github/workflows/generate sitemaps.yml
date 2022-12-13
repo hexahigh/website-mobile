@@ -15,7 +15,7 @@ jobs:
       with:
         fetch-depth: 0 
 
-    - name: Generate the txt sitemap
+    - name: Generate the sitemap
       id: sitemaptxt
       uses: cicirello/generate-sitemap@v1
       with:
@@ -24,7 +24,7 @@ jobs:
         sitemap-format: txt
         additional-extensions: doc docx ppt pptx txt md exe lua py zip rar mp3 png wav jpg jpeg bin css js json php svg gif ogg swf ico otf ttf scss xml sh
         
-    - name: Generate the xml sitemap
+    - name: Generate the sitemap
       id: sitemapxml
       uses: cicirello/generate-sitemap@v1
       with:
